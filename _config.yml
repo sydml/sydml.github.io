@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: SYDML BLOG
+SEOTitle: Sydml的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+email: lym61012141@gmail.com
+description: "居安思危，付诸行动."
+keyword: "BY, BY Blog, Sydml的博客, sydml, Sydml, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -19,10 +19,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     sydml
+github_username:    sydml
+jianshu_username:   e68fba58f75c
 #twitter_username:   qiubaiying
 
 
