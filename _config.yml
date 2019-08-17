@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     sydml
 github_username:    sydml
-jianshu_username:   e68fba58f75c
+jianshu_username:   u/b615a90f0d86
 #twitter_username:   qiubaiying
 
 
@@ -55,8 +55,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ Disqus（https://disqus.com/）
+ disqus_username: sydml
 
 # Gitalk
 gitalk:
