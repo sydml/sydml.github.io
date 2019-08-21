@@ -93,13 +93,13 @@ layout: default
                 <script src="{{ site.baseurl }}/js/md5.min.js"></script>
                 <script type="text/javascript">
                     var gitalk = new Gitalk({
-                    clientID: '{{site.gitalk.clientID}}',
-                    clientSecret: '{{site.gitalk.clientSecret}}',
-                    repo: '{{site.gitalk.repo}}',
-                    owner: '{{site.gitalk.owner}}',
-                    admin: ['{{site.gitalk.admin}}'],
-                    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-                    id: md5(location.pathname),
+                    clientID: '65254a250ae0a4159dde',
+                    clientSecret: 'ea3356e81fae5de485487dc21423d6fa386e3927',
+                    repo: 'sydml.github.io',
+                    owner: 'sydml',
+                    admin: ['sydml'],
+                    distractionFreeMode: true,
+                    id: window.location.pathname,
                     });
                     gitalk.render('gitalk-container');
                 </script>
