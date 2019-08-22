@@ -113,7 +113,7 @@ header-img: "img/post-bg-rwd.jpg"
     owner: 'sydml',
     admin: ['sydml'],
     distractionFreeMode: true,
-    id: window.location.pathname,
+    id: decodeURI(window.location.pathname),
     });
     gitalk.render('gitalk-container');
 </script>
