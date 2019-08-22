@@ -1,0 +1,42 @@
+# Default ignored files
+/.idea/workspace.xml
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+*.class
+
+#package file
+*.war
+*.ear
+
+#kdiff3 ignore
+*.orig
+
+#eclipse ignore
+.settings
+.project
+.classpath
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+
+*.log
+*.cache
+*.diff
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
+/dictionaries/liuyuming11.xml
+/misc.xml
+/modules.xml
+/sydml.iml
+/vcs.xml
