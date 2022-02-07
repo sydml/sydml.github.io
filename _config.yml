@@ -2,7 +2,7 @@
 title: SYDML BLOG
 SEOTitle: Sydml的博客 | SYDML Blog
 header-img: img/post-bg-desk.jpg
-email: lym61012141@gmail.com
+email: sydmllzjtu@gmail.com
 description: "乾乾而行，夕惕若厉."
 keyword: "BY, BY Blog, Sydml的博客, sydml, Sydml, iOS, Apple, iPhone"
 url: "http://sydml.github.io"          # your host, for absolute URL
@@ -98,8 +98,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书.sydml",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "掘金",
+        href: "https://juejin.cn/user/3350967174576493"
     }
 ]
 
